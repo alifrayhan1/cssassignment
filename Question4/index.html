@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Specificity</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <p id="para" class="para" style="color: red; font-size: 24px; text-align: center;">Inline, HTML tag, class, and ID—styles were applied using these four rules, but only inline style was applied.</p>
+
+    <p id="para" class="para">HTML tag, class, and ID—styles were applied using these four rules, but only ID style was applied.</p>
+   
+    <p class="para">HTML tag and class were applied using these two rules, but only class style was applied.</p>
+   
+    <p>HTML tag style applied</p>
+</body>
+</html>
