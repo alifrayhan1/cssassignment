@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.multiple-background {
+  width: 800px;
+  height: 600px;
+  margin: 20px auto;
+  border: 2px solid tomato;
+  background-image: url(./image/image1.jpg), url(./image/image2.jpg),
+    url(./image/image3.jpg), url(./image/image4.jpg);
+  background-repeat: no-repeat;
+  background-size: 100px, 100px 150px, 100px 10%, 200px;
+  background-position: top right, top left, bottom left, bottom right;
+}
