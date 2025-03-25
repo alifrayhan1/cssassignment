@@ -9,6 +9,6 @@ Question3/
 │-- README.md
 ```
 
-## [GitHub link](https://github.com/alifrayhan1/cssassignment/tree/main/Question3)
+### [GitHub link](https://github.com/alifrayhan1/cssassignment/tree/main/Question3)
 
-## [live link](https://gilded-gumption-e40717.netlify.app/)
+### [live link](https://gilded-gumption-e40717.netlify.app/)

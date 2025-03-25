@@ -24,5 +24,5 @@ The `flex-direction` property has the following possible values:
 The cross axis runs at a 90-degree angle to the main axis. If the main axis is set to `row` or `row-reverse`, then the cross axis runs in the `column` or `column-reverse` direction.
 
 ### Cross Axis Example
-[GitHub link](https://github.com/alifrayhan1/cssassignment/tree/main/Question1)
-[live link](https://cozy-meringue-b2613d.netlify.app/) 
+#### [GitHub link](https://github.com/alifrayhan1/cssassignment/tree/main/Question1)
+#### [live link](https://cozy-meringue-b2613d.netlify.app/) 

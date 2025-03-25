@@ -15,6 +15,6 @@ background-size: cover, contain, 100% 80%, 200px 200px;
 background-position: top right, bottom left, 500px 200px, center center;
 ```
 ## Multiple Background Image Example
-[GitHub link](https://github.com/alifrayhan1/cssassignment/tree/main/Question2)
-[live link](https://lucky-banoffee-7231e1.netlify.app/)
+### [GitHub link](https://github.com/alifrayhan1/cssassignment/tree/main/Question2)
+### [live link](https://lucky-banoffee-7231e1.netlify.app/)
 
